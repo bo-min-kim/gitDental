@@ -19,6 +19,7 @@ public class Product {
 				+ ", inputdate=" + inputdate + "]";
 	}
 	
+	// 상품
 	public Product() {
 	
 	}

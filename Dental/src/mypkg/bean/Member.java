@@ -21,6 +21,7 @@ public class Member {
 				+ ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
 	}
 	
+	// 회원
 	public Member() {
 		
 	}
